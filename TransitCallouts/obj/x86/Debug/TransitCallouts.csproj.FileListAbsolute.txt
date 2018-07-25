@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\TransitCallouts.dll
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\TransitCallouts.pdb
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\LSPD First Response.dll
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\RagePluginHookSDK.dll
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\LSPD First Response.pdb
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\bin\x86\Debug\RagePluginHookSDK.xml
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\obj\x86\Debug\TransitCallouts.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\obj\x86\Debug\TransitCallouts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\obj\x86\Debug\TransitCallouts.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\obj\x86\Debug\TransitCallouts.dll
+C:\Users\Administrator\Desktop\PROJECTS\TransitCallouts\TransitCallouts\TransitCallouts\obj\x86\Debug\TransitCallouts.pdb
