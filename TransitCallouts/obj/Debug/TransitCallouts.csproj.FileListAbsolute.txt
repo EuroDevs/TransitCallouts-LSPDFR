@@ -1,0 +1,12 @@
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\TransitCallouts.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\TransitCallouts.pdb
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\Arrest Manager.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\LSPD First Response.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\RagePluginHookSDK.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\Traffic Policer.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\Arrest Manager.xml
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\bin\Debug\Traffic Policer.xml
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\obj\Debug\TransitCallouts.csprojResolveAssemblyReference.cache
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\obj\Debug\TransitCallouts.csproj.CoreCompileInputs.cache
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\obj\Debug\TransitCallouts.dll
+C:\Users\ALMANKA\source\repos\TransitCallouts\TransitCallouts\obj\Debug\TransitCallouts.pdb
